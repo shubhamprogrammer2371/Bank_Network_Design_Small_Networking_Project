@@ -47,7 +47,7 @@ Requirements :
 	4.3) Banner messages.
 	4.4) Disable domain IP lookup
 5) Each department should be in a different VLAN.
-	5.1) Creat eVLANs in every department.
+	5.1) Create VLANs in every department.
 	5.2) VLANs you will use in your case, including VLAN1 also, e.g. 10,20,30..etc.
 	5.3) Each VLAN should be in a different subnetwork.
 6) Planning of IP Addresses.
