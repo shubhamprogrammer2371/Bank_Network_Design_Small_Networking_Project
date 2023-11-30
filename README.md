@@ -341,7 +341,14 @@ Requirements :
 
 
 I utilized Microsoft Visio to model the network, which is shown in the image below.
+
+
 ![Bank_Network_Design](Bank_Network_Design.png)
+
+
+
+
+
 
 
 
