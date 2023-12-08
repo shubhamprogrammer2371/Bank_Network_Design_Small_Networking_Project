@@ -8,6 +8,10 @@ Using MS Visio to model or visualize the network, I completed a modest networkin
 
 
 
+Case Study :-
+
+
+
 
 
 Radeon Company Ltd. is a US-owned company that deals with Banking and Insurance. The company is intending to expand its' services across the African continent having the first branch to be located in Nairobi, Kenya. The company has secured a four-story building to operate withib the Kenyan capital city. Therefore, the company would like to allow sourcing the knowledge from a group of final-year students from the local university to design and implement their company network. Assume you are among the students to take over this role, carefully read down the requirements then model the design and implement the network based on the companys' need. Each floor has departemnts as provided below :
@@ -353,6 +357,111 @@ I utilized Microsoft Visio to model the network, which is shown in the image bel
 
 
 
+
+Technologies Implemented :- 
+
+
+
+
+1. Creating a network topology using Cisco Packet Tracer.
+
+
+
+
+
+2. Hierarchical Network Design.
+
+
+
+
+
+3. Connecting Networking devices with Correct cabling.
+
+
+
+
+
+
+4. Configuring Basic device settings.
+
+
+
+
+
+5. Creating VLANs and assigning ports VLAN numbers.
+
+
+
+
+
+
+6. Subnetting and IP Addressing.
+
+
+
+
+
+
+7. Configuring Inter-VLAN Routing on the Multilayer switches (Switch Virtual Interface).
+
+
+
+
+
+
+
+8. Configuring Dedicated DHCP Server device to provide dynamic IP allocation.
+
+
+
+
+
+
+
+9. Configuring SSH for secure Remote access.
+
+
+
+
+
+
+
+10. Configuring OSPF as the routing protocol.
+
+
+
+
+
+
+
+
+11. Configuring switchport security or Port-Security on the switches.
+
+
+
+
+
+
+
+
+12. Configuring WLAN or wireless network (Cisco Access Point).
+
+
+
+
+
+
+
+
+13. Host Device Configurations.
+
+
+
+
+
+
+
+14. Test and Verifying Network Communication.
 
 
 Video Demonstration :- https://drive.google.com/file/d/1wpncD53NhqPr6vtQe3EKBqxmbOByndvF/view?usp=sharing
